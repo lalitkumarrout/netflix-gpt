@@ -35,11 +35,15 @@
 -Gpt Search Feature
 -Gpt Search Bar
 -Multi-language Feature in our App
--Integrate GPT APIs
-
-
-
-
+-Get Open Ai api Key
+-gpt Search Api Call
+-fetched gpt MovieSuggestions from TMdb 
+-Created gptSlice Added data
+-Reused Movie list component to make movie suggestion container
+-Memorization
+-Added .env file
+-Adding .env file to gitIgnore
+-Made our site responsive
 
 # Features
  -Login/sign up
